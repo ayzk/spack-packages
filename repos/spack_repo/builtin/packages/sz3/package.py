@@ -17,7 +17,7 @@ class Sz3(CMakePackage):
     tags = ["e4s"]
 
     version("master")
-    version("3.4.0", commit="e4632466284842a6f26134e4bf2d034fea8a66cc")
+    version("3.4.0", commit="9a1ce2045c7044d98fcaf10271aa2a0154748a0b")
     version("3.2.0", commit="b3dab4018425803a55d8073dc55dade7fa46b7b4")
     version("3.1.8", commit="e308ebf8528c233286874b920c72c0a6c0218fb2")
     version("3.1.7", commit="c49fd17f2d908835c41000c1286c510046c0480e")
